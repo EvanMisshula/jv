@@ -17,13 +17,14 @@
 #+REVEAL_POSTAMBLE: <p> Created by Evan Misshula. </p>
 #+REVEAL_PLUGINS: (highlight markdown)
 
-* Org-mode and reproducible research
+* NYPLab and GC-Digital collaboration
 
-The presentation in this Repo was given by Evan Misshula to the
-Emacsnyc meetup on November 3, 2014.  To view it, as it appears in the 
-video,, you must install and configure reveal.js.  A working copy of the library is 
-included in this repo.  However, reveal.js produces html files.  These need to be 
-served to a browser to be viewed in their presentation form.
+The presentation in this Repo was given by Evan Misshula and Micki
+Kaufman to the NYPLabs on November 3, 2014.  To view it, you must
+install and configure reveal.js.  A working copy of the library is
+included in this repo.  However, reveal.js produces html files.  These
+need to be served to a browser to be viewed in their presentation
+form.
 
 * Web server
 
@@ -43,4 +44,4 @@ address bar of your browser and type:
 
     localhost:8000
 
-You will see the file ~rr.html~. Click on it and begin the presentation.
+You will see the file ~whatKind.html~. Click on it and begin the presentation.
